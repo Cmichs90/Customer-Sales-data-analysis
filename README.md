@@ -43,6 +43,10 @@ This analysis process involves:
   
 ## Analysis
 
+###  Dashoboard overview
+
+![](https://github.com/Cmichs90/Customer-Sales-data-analysis-Excel-/blob/main/dashboard_overview.png) 
+
 ###   Q1: How customers are segmented by age?
 
 Showing Age Distribution Visualisation           
